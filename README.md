@@ -66,7 +66,7 @@
 
 ### 🔹 Forgot Password System (LexHelix)  
 > JS kullanmadan e-posta veya telefonla şifre sıfırlama
-
+- ✉️  SMTP protokolü kullanarak 
 - 🔁 ASP.NET CheckBox ile toggle input seçimi
 - ✉️ E-posta ve 📱 telefon numarası doğrulama
 - 🔐 `VerifyEmail.aspx` ile e-posta kod doğrulama arayüzü
@@ -97,7 +97,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET%20Framework-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat-square&logo=dotnet)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
