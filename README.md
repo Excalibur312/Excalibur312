@@ -121,8 +121,6 @@
 ## 📬 Contact Me
 
 - 📧 Gmail: [KayaEmreCE@gmail.com](mailto:KayaEmreCE@gmail.com)
-- 🧠 LinkedIn, Portföy vs. gelecek eklemeler için yer bırakıldı
 
----
 
-> 🔎 “I'm building the future of law and code — one repo at a time.”
+
