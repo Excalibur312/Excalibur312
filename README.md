@@ -28,7 +28,6 @@
 - 💬 Gerçek zamanlı mesajlaşma altyapısı  
 - 🔐 Kimlik doğrulama, rol & yetki yönetimi  
 - 🧾 Firma adına gönderilen bildirim ve mesaj altyapısı  
-- 🌐 **Angular tabanlı SPA frontend**
 - ⚙️ Backend ağırlıklı, ölçeklenebilir mimari  
 - 🏷️ Marka tescil süreci devam etmektedir  
 
