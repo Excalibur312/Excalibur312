@@ -8,10 +8,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Graduate from **Bandırma Onyedi Eylül University**
-- 🧠 Strong interest in **.NET (Framework & Core), C#, TypeScript, Vanilla JS, Python, ASP.NET, SQL, Elasticsearch, Unity, and Machine Learning**
+- 🧠 Strong interest in **.NET (Framework & Core), C#, TypeScript, Angular, Vanilla JS, Python, ASP.NET, SQL, Elasticsearch, Unity, and Machine Learning**
 - ⚖️ Focused on **LegalTech**, backend-heavy systems, and scalable enterprise architectures
-- 🔬 Developed **AI-powered legal research platforms**, **automation systems**, and **admin panels**
-- 🌐 Frontend development using **Vanilla HTML, CSS, JavaScript** (no frameworks when not needed)
+- 🔬 Developed **AI-powered legal research platforms**, **admin panels**, and **enterprise-style automation systems**
+- 🌐 Frontend development using **Angular (SPA)** and **Vanilla HTML / CSS / JavaScript**
 - 📱 Android development with **Kotlin**, focused on clean architecture and UI/UX
 - 🎮 Indie game developer with multiple **2D Unity** projects
 - 🌍 Currently learning **German (A2)**, targeting **B1+**
@@ -28,11 +28,11 @@
 - 💬 Gerçek zamanlı mesajlaşma altyapısı  
 - 🔐 Kimlik doğrulama, rol & yetki yönetimi  
 - 🧾 Firma adına gönderilen bildirim ve mesaj altyapısı  
-- 🌐 Vanilla **HTML / CSS / JavaScript** ile geliştirilen kullanıcı arayüzleri  
+- 🌐 **Angular tabanlı SPA frontend**
 - ⚙️ Backend ağırlıklı, ölçeklenebilir mimari  
 - 🏷️ Marka tescil süreci devam etmektedir  
 
-**Tech:** ASP.NET, C#, SQL Server, SMTP, Vanilla JS, HTML, CSS
+**Tech:** ASP.NET / ASP.NET Core, C#, SQL Server, REST API
 
 ---
 
@@ -45,7 +45,7 @@
 - 📊 Gelişmiş loglama & immutable logging sistemi  
 - 🧪 Unit, Integration ve API test senaryoları  
 - 🔄 Cache, pagination ve filtreleme mekanizmaları  
-- 🧠 Frontend tarafında **TypeScript + Vanilla JS** kullanımı  
+- 🌐 **Angular + TypeScript tabanlı admin paneli**  
 
 **Tech:** ASP.NET Core, REST API, SQL, Logging, Memory Cache, TypeScript
 
@@ -58,21 +58,21 @@
 - 🔍 **Elasticsearch** ile gelişmiş arama  
   - Fuzzy, wildcard, match_phrase  
 - 🤖 OpenAI tabanlı **hukuki kitap & karar öneri chatbotu**  
-- 💬 ASP.NET üzerinde canlı sohbet ve geçmiş kayıt sistemi  
-- 🌐 Minimalist frontend: **Vanilla HTML / CSS / JS**  
+- 💬 Canlı sohbet ve geçmiş kayıt sistemi  
+- 🌐 **Angular frontend + ASP.NET backend**  
 
-**Tech:** .NET, Elasticsearch, OpenAI API, ASP.NET, SQL, JavaScript
+**Tech:** .NET, Elasticsearch, OpenAI API, Angular, TypeScript, SQL
 
 ---
 
 ### 🔹 Reelix  
-> Movie streaming platform built with ASP.NET
+> Movie streaming platform
 
 - 🎬 Video oynatıcı altyapısı  
 - 👍 Yorum & beğeni sistemi  
 - 🧩 Admin paneli ile içerik yönetimi  
 - 🌙 Modern siyah–turuncu UI  
-- 🌐 Vanilla JavaScript ile etkileşimli arayüz  
+- 🌐 Angular tabanlı kullanıcı arayüzü  
 
 ---
 
@@ -87,13 +87,12 @@
 ---
 
 ### 🔹 Dictionary (Sözlük) Application  
-> Letter-filtered ASP.NET Web Forms dictionary system
 
 - 🔤 Türkçe karakter destekli harf filtreleme  
 - 🔍 Arama + sayfa boyutu seçimi  
 - 📃 GridView üzerinde kelime & anlam gösterimi  
 - 📜 Kaydırmalı pagination  
-- 🌐 JavaScript framework kullanmadan geliştirilmiş UI  
+- 🌐 Framework kullanılmadan geliştirilen UI  
 
 ---
 
@@ -109,7 +108,7 @@
 ### 🔹 Forgot Password System (LexHelix)
 
 - ✉️ SMTP ile e-posta doğrulama  
-- 📱 Telefon / e-posta toggle (**Vanilla JS yok / server-side toggle**)  
+- 📱 Telefon / e-posta toggle (server-side)  
 - 🔁 ASP.NET CheckBox ile input switching  
 - 🔐 `VerifyEmail.aspx` ile kod doğrulama  
 
@@ -142,20 +141,19 @@
 
 ## 🧰 Tech Stack
 
-### Languages & Frameworks
+### Backend & Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat-square&logo=dotnet)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-black?style=flat-square)
-![ANGULAR](https://img.shields.io/jsdelivr/npm/:period/:scope/:packageName )
 
 ### Tools & Technologies
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
