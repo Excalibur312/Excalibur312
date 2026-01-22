@@ -155,7 +155,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-black?style=flat-square)
-![ANGULAR](https://img.shields.io/badge/-Vanilla%20JS-black?style=flat-square](https://img.shields.io/jsdelivr/npm/:period/:scope/:packageName )
+![ANGULAR](https://img.shields.io/jsdelivr/npm/:period/:scope/:packageName )
 
 ### Tools & Technologies
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
